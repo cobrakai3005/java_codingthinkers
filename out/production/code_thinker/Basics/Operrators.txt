@@ -1,0 +1,55 @@
+a + b Operands
+  Operators
+
+  1. Unary Operators - 1 Operands;
+  2. Binary Operators 2 - Operands;
+  3.Ternary Operators 3-Operands;
+
+Increments Operators  (Unary Type)
+
+pre increment            post increment
+++a                      a++
+int a= 11                   int a = 10
+int b=   ++a                int b = a
+sout(b): 11                 sout(b): 10
+sout(a): 11                  sout(a): 11
+
+
+
+Decrement Operators  (Unary Type)
+--a                        a--
+
+
+Arithmatic + - / %
+
+***********************************
+Precedence
+*, / , %
+greater than
++, -
+
+
+Associativity
+Left to right;
+
+
+
+&********************************
+Relational Operators
+<, <=, >, >= , == , != answer will always come in boolean true or false
+
+
+**************************************
+
+Logical Operators
+&&, || and !
+
+
+**************************************
+assignment Operators
+Lvalue , Rvalue 
+
++= addition assignment
+-= subtract assignment
+/= divide assignment
+*= multply assignment

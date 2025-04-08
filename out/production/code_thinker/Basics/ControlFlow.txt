@@ -1,0 +1,26 @@
+Control flow statement
+
+1 Selection assignment
+if, if-else, if-else-if, if-else-if-else, switch
+
+2.. Iterative Statements
+while , do-while , for , forEach
+
+3. Jump
+
+break, continue
+
+
+Switch(d){
+    case 1:
+    Sout();
+    break;
+
+    case 2:
+    Sout();
+    break;
+   
+   default:
+   sout()
+}
+

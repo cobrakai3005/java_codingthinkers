@@ -1,0 +1,10 @@
+
+
+Range of double 1.7*10^308 to 1.7*10^308
+Range  of float -3.4 *10^38 to 3.4*10^38
+
+Bianary - 0, 1 ob
+Octal - 8 0-7 
+Decimal 10 - 0-9
+Hexadecmmal 0 9, A-F, 
+
