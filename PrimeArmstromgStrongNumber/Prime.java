@@ -1,5 +1,7 @@
 package PrimeArmstromgStrongNumber;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class Prime {
@@ -24,6 +26,7 @@ public class Prime {
 
     }
 
+    ArrayList
     static void armstrongNumber(){
       Scanner sc = new Scanner(System.in);
       int num = sc.nextInt();
