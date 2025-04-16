@@ -5,7 +5,6 @@ import java.util.Arrays;
 public class ExtraClass {
     public static void main(String[] args) {
         singleNumber();
-
     }
 
     static void factors(){

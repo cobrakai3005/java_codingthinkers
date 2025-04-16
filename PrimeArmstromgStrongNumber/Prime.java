@@ -26,7 +26,7 @@ public class Prime {
 
     }
 
-    ArrayList
+    //ArrayList
     static void armstrongNumber(){
       Scanner sc = new Scanner(System.in);
       int num = sc.nextInt();

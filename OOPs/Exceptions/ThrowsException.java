@@ -1,6 +1,6 @@
 public class ThrowsException {
 
-    static void m2(){
+    static void m2() throws Exception{
         System.out.println("m2");
         System.out.println(5/0);
         System.out.println("m2");

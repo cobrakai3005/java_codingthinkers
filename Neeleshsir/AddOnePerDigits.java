@@ -11,7 +11,11 @@ public class AddOnePerDigits {
         int rem = n % 10; 
         n /= 10;
         rem = (rem + 1 + (carry? 1: 0));
+       if(rem > 9){
+        carry = true;
+       }else{
         carry = false;
+       }
         plusOne = rem *inc + plusOne;
         inc *= 10;
         
