@@ -20,7 +20,7 @@ public class Arrays {
         for (int i = 0; i < nums.length; i++) {
             sum += nums[i];
         }
-
+ 
         System.out.println("Sum the array "+ sum);
     }
 }
