@@ -10,7 +10,6 @@ public class SumOf2Numbers {
             int rem2 = num2 % 10;
             sum =((rem1 + rem2 + carry)%10)*inc + sum;
             carry = (rem1 + rem2 + carry) /10;
-            
             inc *=10;
             num1/=10;
             num2/=10;

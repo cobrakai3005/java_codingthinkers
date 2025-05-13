@@ -26,6 +26,7 @@ class Node {
             temp.next = n;
         }
     }
+    
     void print(){
         Node temp = head;
         System.out.print("head -> ");
@@ -65,9 +66,7 @@ class Node {
         Node temp = head;
         int  i = 1;
         while (i <= index -2) {
-            temp = temp.next;
-
-            
+            temp = temp.next;   
         }
          n.next = temp.next;
          temp.next = n;
@@ -135,7 +134,6 @@ class Node {
         head = prev;
 
     }
-
 
 }
 

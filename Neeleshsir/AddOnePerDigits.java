@@ -20,7 +20,7 @@ public class AddOnePerDigits {
         inc *= 10;
         
      }
-     System.out.println(plusOne);
+        System.out.println(plusOne);
 
     }
 }
